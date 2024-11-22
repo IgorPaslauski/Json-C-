@@ -20,3 +20,9 @@ $ {
 ]
 { title: 'foo', body: 'bar', userId: 1, id: 101 }
 ```
+## Contribuidores
+
+- [Nicolas](https://github.com/NicolasPcastr0)
+- [Henrique](https://github.com/FROEDERH)
+- [Jean](https://github.com/JeanMago)
+- [Igor](https://github.com/IgorPaslauski)
